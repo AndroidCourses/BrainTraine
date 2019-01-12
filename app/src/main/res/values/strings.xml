@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BrainTraine</string>
+    <string name="go">Go!</string>
+    <string name="timer">30 s</string>
+    <string name="resultQuestion">Correct!</string>
+    <string name="answer14">14</string>
+    <string name="play_agaiin">Play Again</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong :(</string>
+    <string name="done">Done!</string>
+</resources>
